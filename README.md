@@ -4,7 +4,7 @@ I'm fascinated by application development and would like to contribute to projec
 
 I'm currently studying Computer Science at the Metropolitan Community College and intend on transferring to the University of Nebraska at Omaha in the coming year.
 
-- You can reach me @ minnichthomas425@gmail.com
+- You can reach me at minnichthomas425@gmail.com
 
 <!---
 ThomasMinn/ThomasMinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
